@@ -4,7 +4,6 @@ appdirs==1.4.4
 argh==0.26.2
 arrow==0.13.1
 astor==0.8.1
-astroid @ file:///C:/ci/astroid_1628063293445/work
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 async-timeout==3.0.1
 atomicwrites==1.4.0
