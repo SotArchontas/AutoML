@@ -1,1 +1,1 @@
-web: sh setup.sh && docker-compose up && streamlit run iris_streamlit_demo.py
+web: sh setup.sh && docker-compose up && streamlit run main_app.py
